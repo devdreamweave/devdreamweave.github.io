@@ -80513,7 +80513,7 @@ $S:0}
 A.wG.prototype={
 ai(){return new A.PB(B.j)}}
 A.PB.prototype={
-PC(){var s=A.aq8("assets/images/cv.pdf")
+PC(){var s=A.aq8("web/assets/images/cv.pdf")
 s.target="blank"
 s.download="cv.pdf"
 s.click()},
